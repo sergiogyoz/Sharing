@@ -1,0 +1,14 @@
+-River Mechanics and management
+-Natural Hazards & Mitigation
+-Special Topics
+
+email with courses for the PhD
+
+- How will I implement the network model on landlab
+- (bonus) Start coding
+- meeting with Ricardo (9:30-3 except geohackeo)
+
+7/5/2022
+- multiple grain sizes bedload sediment transport on the literature.
+- Read Czuba papers to understand what's implemented on landlab to 
+able to compare it to my current approaches.
