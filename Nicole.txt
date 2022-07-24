@@ -12,3 +12,19 @@ email with courses for the PhD
 - multiple grain sizes bedload sediment transport on the literature.
 - Read Czuba papers to understand what's implemented on landlab to 
 able to compare it to my current approaches.
+
+7/13/2022
+-Check with Laurent about my landlab installation (Done)
+-Wilcock & Crowe 2003
+-take a look at "Simulated Dynamics of Mixed Versus Uniform Grain Size Sediment Pulses in a Gravel-Bedded River"
+-sort of a description of what the sedimentnetworktransporter can do 
+-see what kind of problems Czuba matlab code can do to understand with the landlab
+-look at the Cascade and Czuba
+	-what numerical experiments they do
+	-what questions are they asking
+	-what variables are they modeling (input/output?)
+	-can these models operate in landlab
+	-what are the timescales used (dt and total T)
+Nicole jobs
+-Email Allison and ask what's being done right now
+-Email Leonard setup meeting and sergio and postdoc
