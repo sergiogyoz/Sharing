@@ -15,16 +15,25 @@ able to compare it to my current approaches.
 
 7/13/2022
 -Check with Laurent about my landlab installation (Done)
--Wilcock & Crowe 2003
+-Wilcock & Crowe 2003 (done)
 -take a look at "Simulated Dynamics of Mixed Versus Uniform Grain Size Sediment Pulses in a Gravel-Bedded River"
--sort of a description of what the sedimentnetworktransporter can do 
+-sort of a description of what the sedimentnetworktransporter can do (Done)
 -see what kind of problems Czuba matlab code can do to understand with the landlab
 -look at the Cascade and Czuba
-	-what numerical experiments they do
+	-what numerical experiments they do (Done)
 	-what questions are they asking
-	-what variables are they modeling (input/output?)
+	-what variables are they modeling (input/output?)  (Done)
 	-can these models operate in landlab
-	-what are the timescales used (dt and total T)
+	-what are the timescales used (dt and total T) (Done: hours, days, months, years)
+
 Nicole jobs
 -Email Allison and ask what's being done right now
 -Email Leonard setup meeting and sergio and postdoc
+
+
+7/28/2022
+-How mobile the grain sizes are (bimodal distribution of sediment [sandy and big] )
+-Abrasion on the bed by these grain sizes (mostly gravel)
+-Implement something that calculate the abrasion of the bed as a function of the grain size
+-sediment parcels as the move and the ammount of work they do on the bed (*)
+-read bunch of papers
