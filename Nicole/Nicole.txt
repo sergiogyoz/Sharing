@@ -51,3 +51,9 @@ for downstream fining of sediment flux in mountain rivers. Earth Surface Process
 - Finish Sklar 2004
 - Finish Downvalley fining of hillslope sediment in an alpine catchment: implications for downstream fining of sediment flux in mountain rivers
 - Nicole's simplification of the the sklar
+
+9/16/2022
+- Nicole's paper
+- Crosby (other paper on email)
+- prepare for lanscape evolution model (what do I think of the simplification? should we use a regular grid or network?)
+- basin size Puerto Rico (36km^2 sparce (10mt) () )
