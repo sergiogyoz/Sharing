@@ -37,3 +37,17 @@ Nicole jobs
 -Implement something that calculate the abrasion of the bed as a function of the grain size
 -sediment parcels as the move and the ammount of work they do on the bed (*)
 -read bunch of papers
+
+8/11/2022
+-3 papers, 2 on model from Leonard and one theory
+
+9/2/2022
+- first at the top new email Sklar and Dietrich 2004
+- Downvalley fining of hillslope sediment in an alpine catchment: implications 
+for downstream fining of sediment flux in mountain rivers. Earth Surface Processes and Landforms
+- egholm email paper
+
+9/9/2022
+- Finish Sklar 2004
+- Finish Downvalley fining of hillslope sediment in an alpine catchment: implications for downstream fining of sediment flux in mountain rivers
+- Nicole's simplification of the the sklar
