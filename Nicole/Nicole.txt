@@ -57,3 +57,7 @@ for downstream fining of sediment flux in mountain rivers. Earth Surface Process
 - Crosby (other paper on email)
 - prepare for lanscape evolution model (what do I think of the simplification? should we use a regular grid or network?)
 - basin size Puerto Rico (36km^2 sparce (10mt) () )
+
+9/30/2022
+- Read https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2017JF004431
+- and also https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2006WR005035
