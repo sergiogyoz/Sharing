@@ -1,0 +1,8 @@
+* Do gravel bed river size distributions record channel
+network structure?
+
+- no net sediment deposition/accumulation (long term process on tectonically active landscape)
+- Sternberg exponential model for particle size reduction with downstream transport
+- applies to all sediment particles and depends (alpha) only on the lithology
+- discontinuous from bedload to suspension at 2mm
+- 
