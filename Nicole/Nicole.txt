@@ -61,3 +61,54 @@ for downstream fining of sediment flux in mountain rivers. Earth Surface Process
 9/30/2022
 - Read https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2017JF004431
 - and also https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2006WR005035
+
+10/14/2022
+- How does solving for eta_a comes in for solving for E
+- What function do they use for q_ac
+- Read "The problem of predicting..." to understand grain size distribution from hillslopes to the stream
+- keep in mind: what's the point of the paper?  
+
+10/21/2022
+- Hillslopes paper from last week. (Get it ready for Tingan 3 weeks)
+- Start implementing 
+- Get an idea on how to add the 9/30/2022 paper to the model.
+
+11/04/2022
+- think how to implement Saltation abrasion model
+- look at Nicole's saltation abrasion for that
+- look at the Gasparini 2007 (email)
+- maybe also look at the Sklar model to see the simplifications and stuff
+
+11/18/2022
+- Look at the two network papers email
+- How to apply the Czuba paper to update the nodes (and the slopes of the links)
+- What equations can I use to transport sediment from the information coming at the link from up
+stream and the hillslope sediment (see picture)
+
+01/13/2023
+- GrainSizeBedRockInciser
+- Use a mapper to feed information into the network
+- look for github issues to see if anyone has asked about mapping from raster model grid to the network model grid
+- big things
+	1. mapping from one to the other.
+	2. make the component.
+	3. presenting your interdiciplinary degree plan
+- unit transport function
+
+01/23/2023
+- Apply Czuba network transport equation and bedrock incision in a landlab Network grid model
+	- Start coding a component for that
+	- See what fields do I need from the network and which from the raster
+	- Check how deep can I use the Zhang model
+
+01/30/2023
+- See the implementation of the parcels in the NetworkSedimentTransporter
+- Can I build the GSBRI component from this NST component?
+- Backtrack on Zheng paper to Sklar 
+- See compatibility with the Sklar and Dietrich model
+- check out Data Record to keep track of parcels
+
+
+
+
+
