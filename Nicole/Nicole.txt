@@ -176,3 +176,25 @@ stream and the hillslope sediment (see picture)
 	-Figure 7 elevation of bedrock evolution
 - FINISH the semester goals doc and send it to Nicole
 
+10/05/2023
+
+- AGU: Write down all test results for the smoothing/stability parameters (conditions, and how is the full model setup, initial conditions, boundary, etc)
+- AGU: physical scenarios
+- AGU: focus on the ppt or doc for the AGU talk
+- paper: analitical for "basic model"
+- paper: comparison and reproduce the MRSAA-c
+- paper: 2 experiments on a network (last)
+
+10/17/2023
+
+-(maybe) animation in real time moving along the sedimentograph and the bed/other graphs at the same time
+-I can recreate one of the examples of the paper
+-Then I can hopefully do a network example
+
+11/17/2023
+
+- Make the multiple graph animation work
+- Write write write (priority this week)
+- Consider the calculation of incision/erosion rate
+
+
