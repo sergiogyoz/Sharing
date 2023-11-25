@@ -108,7 +108,71 @@ stream and the hillslope sediment (see picture)
 - See compatibility with the Sklar and Dietrich model
 - check out Data Record to keep track of parcels
 
+03/27/2023
+- write one paragraph about the next step for the ML Mississipi modelling.
 
+	A network structure input model can be used to potentially increase the 
+	effectiveness in ML methods estimation of hydraulic parameters across the
+	landscape, along with a more complex and detailed network output. Allowing 
+	the network information to feed into a ML algorithm should provide it with 
+	(implicit) weather and seasonal changes when the appropiate	time scales 
+	are used. This can be further improved by the use of process driven
+	ML algorithms.
 
+- How to make predictions using AI (how many stations? conditions for good prediction)
+- Optimal conditions for waterlevel predictions along the Mississipi using ML
 
+- Another one on the landlab component
+- make a comment on the fields for network grid model
+
+05/23/2023
+- Use OverlandFlow paper as a model for what my component paper would be
+- Make the doc test of the single grain size model
+- Definition of the component being done
+	+ Component runs the "one_step" function
+	+ Component has the multiple grain sizes functionality
+	+ Components have each their doc test and unit test
+		- look at the \test\components folder in landlab for examples
+- Download the template for submission of the paper on the journal and start filling in:
+	+ any examples that I might use for analytical solutions
+	+ the equations and models being used
+	+ the reproducibility from the original papers
+- Writting 
+
+--/--/--
+- did testing
+
+06/06/2023
+- Make one of the plots from the paper.
+- Run the code from the github repo of the paper.
+- Match parameters to reproduce the ouputs of the code.
+
+06/15/2023
+- Put axis labels on your plots
+- make 5 point model
+- make a flat model
+- check boundary conditions
+- equations on the latex thing
+
+06/20/2023
+- The boundary conditions function can default to the "copy" of the upstream end
+- it can also (if time permits) implement the other ones (fix sediment out, fix elevation change, or fix depth (as in the paper))
+- check that the transport 
+
+7/20/2023
+- Look at the AGU sessions
+- Emails to sessions that could be good by monday
+- When you don't know what to code type (paper)
+- CODE!
+
+8/18/2023
+- Beignet plot of profiles and alluvium for group meeting
+- work on the methods section in the overleaf doc
+
+8/25/2023
+- don't reproduce graphs from the code, rather the paper directly
+- Particularly
+	-Figure 8 (fraction and effective alluvium cover)
+	-Figure 7 elevation of bedrock evolution
+- FINISH the semester goals doc and send it to Nicole
 
