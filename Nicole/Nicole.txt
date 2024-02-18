@@ -197,4 +197,51 @@ stream and the hillslope sediment (see picture)
 - Write write write (priority this week)
 - Consider the calculation of incision/erosion rate
 
+12/8/2023
+
+- backward schedule for defending on december
+	-thesis submit on dec first week
+	-defend the week before submition (careful with thanksgiving planning)
+	-submit thesis to commite by nov 7
+	-draft of chapters schedule (1st to 3rd at least drafts) 
+- everything coded for the network model
+	-The junctions code done
+	-writting for the 1D model as much as possible before I introduce the 2D
+- GMD document (one DEMAND from Nicole)
+	
+
+1/3/2024
+
+- Focus on the paper instead of the chapter draft
+- Put prospectus finish by march
+- Commite meeting on schedule too (at least (LEAST, maybe more) two weeks)
+- drafts every 3 or more weeks
+- less detail but no buffer timeline for commite/prospectus
+
+1/10/2024
+ERIC
+- Fields are only fields if they are shared to other components
+- Be careful when altering the reference to a grid_node_stuff as it might make it invisible to other components --> line 439 like self._grid.at_node["channel_slope”][:] = S
+- Keep functions simple (for testing) 10 to 20 lines max
+- Install pip install nox and use nox -s lint to run the linters
+Nicole
+- Look at GMD for "user manual" (Jupyter notebooks) for components (talk to Sam)
+- Make the example from the topography instead of making it from a network directly
+- add references to the three paragraphs
+- send class plan
+
+1/22/2024
+- Start Jupyter notebook for "user manual" for the GMD paper and send it to Nicole so she can test it
+- Finish adding references to the corrected version and maybe review the writting for accesibility for everyone on the commite
+- Finalized 3 paragrahs and class list including the one that I'll be taking
+- Put the example from the AGU to the GMD user manual maybe use an example that doesn't take forever (closer to the final solution)
+
+2/1/2024
+- I want this in writting
+- Make sure you write down how long has it been since the change of advisor
+- My class plan for both degrees
+- We need to change my student account?
+- Application to master in June?
+
+
 
