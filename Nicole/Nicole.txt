@@ -243,6 +243,27 @@ Nicole
 - We need to change my student account?
 - Application to master in June?
 
+2/26/2024
+- User manual:
+	-use a premade raster file and read it using landlabs default libraries
+- Separate the examples from the methods section
+	- two 1D examples
+		-steady erosion to analytical solution
+		-pulses like paper
+	- spatial variability on the fork 
+		-see picture, we want to show the adjusment after the joints
+- Prospectus
+	- finish user manual 1D
+	- 1D analytical solution section
+
+3/6/2024
+- Email Rossana about the inter program
+- figure out what Nicole has to fill in the forms (what sections need to be filled)
+- keep the same number of significant figures on decimals
+- work directly on the prospectus document (don't have to be everything that will be on the GMD paper)
+
+- see if I can get the convergence to the other solution
+- maybe don't be as extensive on the "related models" section
 
 
 
