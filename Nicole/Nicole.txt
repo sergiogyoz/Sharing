@@ -243,6 +243,20 @@ Nicole
 - We need to change my student account?
 - Application to master in June?
 
+2/19/2024
+
+- Write down the 1D model FIRST
+- Jupyter notebook should illustrate "all multiple ways" of using it
+- simplest steady state solution with pulses from Zhang
+	- reach into stedy state
+	- sediment pulses
+- 2D example
+	- (to ilustrate the increase in discharge)
+- email carola
+- First version of the user manual
+- First version of Methods section
+- Outline of the prospectus 
+
 2/26/2024
 - User manual:
 	-use a premade raster file and read it using landlabs default libraries
@@ -265,6 +279,9 @@ Nicole
 - see if I can get the convergence to the other solution
 - maybe don't be as extensive on the "related models" section
 
+7/24/2024
+-put the ideas from the scenarios into the prospectus
+-continue prev week work
 
 
 
